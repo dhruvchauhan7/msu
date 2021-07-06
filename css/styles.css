@@ -1,0 +1,159 @@
+body{
+    margin: 0;
+    border: 0;
+    border-left-width: 0px;
+    border-top-width: 0px;
+    border-right-width: 0px;
+    padding-bottom: 0px;
+    border-bottom-width: 0px;
+}
+
+.logo{
+    display: inline-block;
+    height: 150px;
+    padding-left: 110px;
+    margin-bottom: 20px;
+}
+
+.dropdown{
+    display: inline-block;
+    padding: 10px 30px 10px 30px;
+    
+}
+.fote{
+    /* padding-left: 270px; */
+    text-align: center;
+    padding-top: 5px;
+    background-color:#39A2DB;
+    font-family: serif;
+    padding-bottom: 5px;
+}
+.fote1{
+    padding-left: 420px;
+    padding-bottom: 30px;
+    background-color:#39A2DB ;
+    font-family: serif;
+}
+.fote1:hover{
+    text-decoration: underline;
+}
+.fote2{
+    padding-left: 20px;
+    padding-right: 350px;
+    padding-bottom: 25px;
+    background-color:#39A2DB ;
+    font-family: serif;
+}
+
+.news{
+    position: relative;
+    display: inline-block;
+    background-color: rgb(241, 239, 239);
+    height: 200px;
+    width: 220px;
+    padding: 25px;
+    left: 35px;
+    top: 17px;
+}
+.news-image{
+    height: 30px;
+    width: 30px;
+    filter: invert();
+}
+
+h4{
+    display: inline-block;
+    position: relative;
+    left: 10px;
+    bottom: 10px;
+}
+.div-para1{
+    display: inline-block;
+    position: relative;
+    top: 40px;
+    right:80px;
+}
+.div-para2{
+    display: inline-block;
+    position: relative;
+    bottom: 15px;
+    left: 5px;
+}
+
+
+
+.notification{
+    position: relative;
+    display:inline-block;
+    background-color: rgb(241, 239, 239);
+    height: 200px;
+    width: 220px;
+    padding: 25px;
+    left: 65px;
+    top: 72px;
+}
+.noti-image{
+    height: 30px;
+    width: 30px;
+    filter: invert();
+}
+
+.circular{
+    position: relative;
+    display:inline-block;
+    background-color: rgb(241, 239, 239);
+    height: 200px;
+    width: 220px;
+    padding: 25px;
+    left: 95px;
+    top: 72px;
+}
+.circular-image{
+    height: 30px;
+    width: 30px;
+    filter: invert();
+}
+
+
+.event{
+    position: relative;
+    display:inline-block;
+    background-color: rgb(241, 239, 239);
+    height: 200px;
+    width: 220px;
+    padding: 25px;
+    left: 125px;
+    top: 17px;
+}
+.event-image{
+    height: 30px;
+    width: 30px;
+    filter: invert();
+}
+
+
+.msu{
+    color: black;
+    font-size:25px;
+    position: relative;
+    right: 40px;
+}
+.contact{
+    color: black;
+    font-size: 30px;
+    position: relative;
+    padding-top: 10px;
+}
+.cont{
+    font-size: 22px;
+}
+.social{
+    display: inline-block;
+    height: 40px;
+    width: 40px;
+    margin: 8px;
+}
+.icon{
+    height: 30px;
+    width: 30px;
+}
